@@ -42,7 +42,7 @@ The program must be executed with Python 3, where you might have to install the 
 -   pip3 install requests
 
 To run it:
-
+-   git clone https://github.com/pahennig/Alerts-to-Jira-Tickets
 -   python3 $path/Alerts-to-Jira-Tickets/script/status.py
 
 To allow the program to run accordingly, ensure to generate a token from Microsoft Cloud App Security, and Abuseipdb. 
