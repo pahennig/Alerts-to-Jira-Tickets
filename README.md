@@ -11,7 +11,7 @@ Microsoft Cloud App Security Alerts - Jira Issues
 1.0 | Purpose
 2.0 | Instructions
 3.0 | Usage scenario
-4.0 | Comments
+4.0 | Comments and considerations
 
 
 
