@@ -41,6 +41,10 @@ The program must be executed with Python 3, where you might have to install the 
 
 -   pip3 install requests
 
+To run it:
+
+-   python3 $path/Alerts-to-Jira-Tickets/script/status.py
+
 To allow the program to run accordingly, ensure to generate a token from Microsoft Cloud App Security, and Abuseipdb. 
 After this step, you should be able to replace the MCAS token within "status.py" (refer to the function "choices"),
 and Abuseipdb token within "abuseip.py".
