@@ -82,8 +82,9 @@ the alerts should be raised at Jira, so that you can add the analysis, and other
 until closing the ticket. Therefore, you follow:
 
 1. Run the script
-2. The 15 alerts are created at Jira automatically
+2. The 15 alerts are created at Jira automatically, where it's also observable through the terminal output.
    - If there are no network problems to retrieve and post the information, this step should be done within seconds.
+![<Insert Diagram>](https://github.com/pahennig/Alerts-to-Jira-Tickets/blob/master/images/terminal.png) 
 3. All tickets are created correctly, and it's visible on your queue screen:
 ![<Insert Diagram>](https://github.com/pahennig/Alerts-to-Jira-Tickets/blob/master/images/jiraqueue.png)
 4. As the script uses regex to filter for certain details (user's email, IP addresses), it will check for abuse reports under the reported IPs, where a Jira issue 
