@@ -87,7 +87,7 @@ until closing the ticket. Therefore, you follow:
 ![<Insert Diagram>](https://github.com/pahennig/Alerts-to-Jira-Tickets/blob/master/images/terminal.png) 
 3. All tickets are created correctly, and it's visible on your queue screen:
 ![<Insert Diagram>](https://github.com/pahennig/Alerts-to-Jira-Tickets/blob/master/images/jiraqueue.png)
-4. As the script uses regex to filter for certain details, we'll be able to see additional information as per the following example, such as "affected user", "IP report", and other ones as the given list in the above section:
+4. As the script uses regex to filter for certain details, we'll be able to see additional information as per the following example, such as "affected user", "alert summary", and other ones as the given list in the above section, including the query result from abuseipdb, so that we can check the IP type and so as reports:
 ![<Insert Diagram>](https://github.com/pahennig/Alerts-to-Jira-Tickets/blob/master/images/affected_user.png)
 5. This is how the ticket above looks like from MCAS:
 ![<Insert Diagram>](https://github.com/pahennig/Alerts-to-Jira-Tickets/blob/master/images/tor_mcas.png)
